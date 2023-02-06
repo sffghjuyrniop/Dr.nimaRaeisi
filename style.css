@@ -1,0 +1,26 @@
+body {
+	background-image: url("پس زمینه-6.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.pic {
+	width: 210px;
+	height: 210px;
+	display: block;
+}
+.box1{
+	margin-top: 790px;
+	margin-left: 63px;
+}
+.box2 {
+	margin-left: 90px;
+	margin-top: 70px;
+}
+.box3 {
+	margin-left: 170px;
+	margin-top: 70px;
+}
+.box4 {
+	margin-left: 345px;
+	margin-top: 40px;
+}
